@@ -1,0 +1,32 @@
+public class FibonacciGenerator {
+     // Method to generate Fibonacci series
+    public static List<Integer> generateFibonacci(Integer n) {
+        List<Integer> series = new List<Integer>();
+
+        if (n <= 0) {
+            return series; // Return empty list for non-positive input
+        }
+
+        // Initialize first two terms
+        series.add(0);
+        if (n == 1) return series;
+
+        series.add(1);
+        for (Integer i = 2; i < n; i++) {
+            Integer nextTerm = series[i - 1] + series[i - 2];
+            series.add(nextTerm);
+        }
+
+        return series;
+    }
+
+}
+
+
+
+to run the code
+
+List<Integer> fibSeries = FibonacciGenerator.generateFibonacci(10);
+System.debug('Fibonacci Series: ' + fibSeries);
+
+
