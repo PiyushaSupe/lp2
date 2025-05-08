@@ -1,0 +1,33 @@
+1.	Case study on Amazon EC2 and learn about Amazon EC2 web services.
+(Create an EC2 Instance and upload a sample webpage or application on it) 
+2.	Installation and configure Google App Engine.
+(After installation and configuration, deploy any Java/Python application on it)
+
+3.	Creating an Application in SalesForce using Apex Programming Language.
+(Write any Apex program for any application e.g. Calculator, any java code for ex-prime number, Fibonacci series, student CRUD operations etc.)  
+
+4.	Design and develop custom application using Salesforce Cloud.
+(e.g. any event management application, any CRM application, etc)
+For 4th one from CC this building custom application you will take good example like creating bank application or any CRM application or events management application not any basic 2-3 tabs
+
+
+for apex programming practice below code 
+1. Build a Contact-Opportunity Mapper
+2. Write an Apex method that calculates a custom field Stage_Progress__c on Account based on the number of opportunities in different stages (e.g., 25% for "Prospecting", 50% for "Negotiation", etc
+3. Write a method that generates a custom report for all Opportunity records that have a probability of more than 50% and lists them by CloseDate. This report should be output as a formatted string.
+4. Calculator
+
+
+1.	Implementing DFS and BFS algorithms for searching in graph or tree.
+(Implement depth first search algorithm and Breadth First Search algorithm, Use an undirected graph or tree and develop a recursive algorithm for searching all the vertices of a graph or tree data structure.)
+2.	Implement A star Algorithm for any game search problem.
+(Apply A star algorithm for Maze Solver problem and show the final path from start to goal.)
+3.	Implement Greedy search algorithm for Selection Sort application
+
+4.	Implement Greedy search algorithm for Minimum Spanning Tree application
+5.	Implement a solution for a Constraint Satisfaction Problem using Branch and Bound and Backtracking for n-queens problem or a graph colouring problem.
+(Implement both Branch and bound And Backtracking methods for 4 queens problem or graph colouring problem)  
+above one are for AI  You will get 1 problem statement from AI or CC '
+
+
+
